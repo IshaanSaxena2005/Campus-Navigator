@@ -13,13 +13,16 @@ An interactive AI-powered pathfinding visualizer that simulates and compares sea
 ## 📸 Screenshots
 
 ### 🧠 Main Interface  
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/Homepage.png)
+
+### 🚧 Obstacles  
+![Obstacles](screenshots/Obstacles.png)
+
+### 🤖 Solution 
+![Solution](screenshots/Solution.png)
 
 ### 📊 Algorithm Comparison  
-![Comparison](screenshots/comparison.png)
-
-### 🤖 AI Map Generation  
-![AI Map](screenshots/ai-map.png)
+![Comparison](screenshots/Comparison.png)
 
 ---
 
@@ -95,8 +98,6 @@ Create a `.env` file in root:
 
 VITE_GROQ_API_KEY=your_api_key_here  
 
-⚠️ Never upload your API key to GitHub.
-
 ---
 
 ## 📁 Project Structure
@@ -108,16 +109,6 @@ src/
  ├── styles/  
 public/  
 index.html  
-
----
-
-## 🧠 Why This Project Stands Out
-
-- Real-time algorithm visualization  
-- AI + frontend integration  
-- Interactive UI/UX design  
-- Performance comparison system  
-- Hackathon-ready concept  
 
 ---
 
@@ -135,16 +126,6 @@ index.html
 
 - Ishaan Saxena  
 - Hardesh Agarwal  
-
----
-
-## ⭐ Support
-
-If you like this project:
-
-⭐ Star this repo  
-🍴 Fork it  
-📢 Share it  
 
 ---
 
