@@ -6,7 +6,7 @@ An interactive AI-powered pathfinding visualizer that simulates and compares sea
 
 ## 🌐 Live Demo
 
-🚀 https://your-vercel-link.vercel.app  
+🚀 [https://your-vercel-link.vercel.app ](https://campusnavigator-249h.onrender.com/) 
 
 ---
 
