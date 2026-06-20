@@ -96,7 +96,7 @@ npm run dev
 
 Create a `.env` file in root:
 
-VITE_GROQ_API_KEY=your_api_key_here  
+VITE_GROQ_API_KEY=your_api_key_heree  
 
 ---
 
@@ -132,5 +132,5 @@ index.html
 ## 📌 Note
 
 This is an educational/demo project. No real user data is collected.
-gfytfwfw ww wygw gwgg w ww   
+
 ---
