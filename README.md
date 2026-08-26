@@ -64,7 +64,7 @@ An interactive AI-powered pathfinding visualizer that simulates and compares sea
 - City Traffic Grid  
 - Jungle Terrain  
 - Metro Network  
-- Mountain Path  
+- Mountain Path
 
 ---
 
