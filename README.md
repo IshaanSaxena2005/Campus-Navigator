@@ -126,7 +126,6 @@ index.html
 
 - Ishaan Saxena  
 - Hardesh Agarwal  
-
 ---
 
 ## 📌 Note
