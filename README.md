@@ -1,6 +1,6 @@
 # 🎓 Campus Navigator — AI Pathfinding Visualizer
 
-An interactive AI-powered pathfinding visualizer that simulates and compares search algorithms on dynamic grid environments. Built with React + Vite, it enables real-time visualization, AI-based map generation, and performance analysis.
+An interactive AI-powered pathfinding visualizer that simulates and compares search algorithms on dynamic grid environments. Built with React + Vite, it enables real-time visualization, AI-based map generation, and performance analysis. Its for FDS subject
 
 ---
 
